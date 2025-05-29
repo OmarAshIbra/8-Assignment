@@ -30,20 +30,16 @@ Three core datasets were used:
 - معالجة القيم المفقودة والمكررة
 - تحويل أنواع البيانات بشكل مناسب
 
-**English**:
-
 - Merged all data sources into unified DataFrame
 - Handled missing values and duplicates
 - Proper data type conversions
 
-### 2. التحليل الاستكشافي | EDA
+### 2. التحليل الاستكشافي |
 
 - تحليل توزيع الأعمار والجنسيات
 - تحديد أكثر الفئات شعبية
 - حساب متوسط مدة الاستماع
 - مقارنة أنماط الاستماع بين الجنسين
-
-**English**:
 
 - Age and gender distribution analysis
 - Most popular category identification
