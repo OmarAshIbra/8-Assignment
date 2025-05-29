@@ -1,0 +1,502 @@
+[
+  {
+    "user_id": 16,
+    "episode_id": 30,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 6,
+    "episode_id": 8,
+    "duration_seconds": 120
+  },
+  {
+    "user_id": 6,
+    "episode_id": 13,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 6,
+    "episode_id": 27,
+    "duration_seconds": 1500
+  },
+  {
+    "user_id": 17,
+    "episode_id": 9,
+    "duration_seconds": 1500
+  },
+  {
+    "user_id": 14,
+    "episode_id": 23,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 10,
+    "episode_id": 25,
+    "duration_seconds": 0
+  },
+  {
+    "user_id": 15,
+    "episode_id": 6,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 12,
+    "episode_id": 27,
+    "duration_seconds": 1800
+  },
+  {
+    "user_id": 3,
+    "episode_id": 1,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 14,
+    "episode_id": 13,
+    "duration_seconds": 0
+  },
+  {
+    "user_id": 12,
+    "episode_id": 24,
+    "duration_seconds": 120
+  },
+  {
+    "user_id": 17,
+    "episode_id": 6,
+    "duration_seconds": 0
+  },
+  {
+    "user_id": 10,
+    "episode_id": 3,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 14,
+    "episode_id": 18,
+    "duration_seconds": 1800
+  },
+  {
+    "user_id": 19,
+    "episode_id": 22,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 14,
+    "episode_id": 22,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 16,
+    "episode_id": 2,
+    "duration_seconds": 1800
+  },
+  {
+    "user_id": 1,
+    "episode_id": 30,
+    "duration_seconds": 1800
+  },
+  {
+    "user_id": 15,
+    "episode_id": 3,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 19,
+    "episode_id": 12,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 5,
+    "episode_id": 15,
+    "duration_seconds": 0
+  },
+  {
+    "user_id": 2,
+    "episode_id": 1,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 1,
+    "episode_id": 8,
+    "duration_seconds": 1500
+  },
+  {
+    "user_id": 5,
+    "episode_id": 30,
+    "duration_seconds": 1500
+  },
+  {
+    "user_id": 18,
+    "episode_id": 29,
+    "duration_seconds": 1500
+  },
+  {
+    "user_id": 5,
+    "episode_id": 13,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 10,
+    "episode_id": 3,
+    "duration_seconds": 1800
+  },
+  {
+    "user_id": 20,
+    "episode_id": 30,
+    "duration_seconds": 1500
+  },
+  {
+    "user_id": 2,
+    "episode_id": 20,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 7,
+    "episode_id": 13,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 3,
+    "episode_id": 1,
+    "duration_seconds": 120
+  },
+  {
+    "user_id": 11,
+    "episode_id": 29,
+    "duration_seconds": 0
+  },
+  {
+    "user_id": 2,
+    "episode_id": 19,
+    "duration_seconds": 0
+  },
+  {
+    "user_id": 10,
+    "episode_id": 13,
+    "duration_seconds": 1500
+  },
+  {
+    "user_id": 5,
+    "episode_id": 22,
+    "duration_seconds": 1500
+  },
+  {
+    "user_id": 5,
+    "episode_id": 28,
+    "duration_seconds": 120
+  },
+  {
+    "user_id": 4,
+    "episode_id": 28,
+    "duration_seconds": 0
+  },
+  {
+    "user_id": 12,
+    "episode_id": 6,
+    "duration_seconds": 120
+  },
+  {
+    "user_id": 8,
+    "episode_id": 7,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 20,
+    "episode_id": 22,
+    "duration_seconds": 0
+  },
+  {
+    "user_id": 5,
+    "episode_id": 12,
+    "duration_seconds": 900
+  },
+  {
+    "user_id": 17,
+    "episode_id": 6,
+    "duration_seconds": 120
+  },
+  {
+    "user_id": 14,
+    "episode_id": 17,
+    "duration_seconds": 900
+  },
+  {
+    "user_id": 20,
+    "episode_id": 1,
+    "duration_seconds": 1800
+  },
+  {
+    "user_id": 18,
+    "episode_id": 1,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 14,
+    "episode_id": 26,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 3,
+    "episode_id": 14,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 16,
+    "episode_id": 11,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 2,
+    "episode_id": 11,
+    "duration_seconds": 1500
+  },
+  {
+    "user_id": 8,
+    "episode_id": 28,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 19,
+    "episode_id": 28,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 8,
+    "episode_id": 29,
+    "duration_seconds": 900
+  },
+  {
+    "user_id": 3,
+    "episode_id": 20,
+    "duration_seconds": 1500
+  },
+  {
+    "user_id": 20,
+    "episode_id": 7,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 18,
+    "episode_id": 10,
+    "duration_seconds": 0
+  },
+  {
+    "user_id": 6,
+    "episode_id": 16,
+    "duration_seconds": 1800
+  },
+  {
+    "user_id": 11,
+    "episode_id": 24,
+    "duration_seconds": 1800
+  },
+  {
+    "user_id": 8,
+    "episode_id": 5,
+    "duration_seconds": 0
+  },
+  {
+    "user_id": 6,
+    "episode_id": 3,
+    "duration_seconds": 900
+  },
+  {
+    "user_id": 19,
+    "episode_id": 5,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 9,
+    "episode_id": 24,
+    "duration_seconds": 1500
+  },
+  {
+    "user_id": 6,
+    "episode_id": 21,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 19,
+    "episode_id": 16,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 20,
+    "episode_id": 29,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 9,
+    "episode_id": 8,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 1,
+    "episode_id": 22,
+    "duration_seconds": 900
+  },
+  {
+    "user_id": 16,
+    "episode_id": 8,
+    "duration_seconds": 900
+  },
+  {
+    "user_id": 20,
+    "episode_id": 6,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 15,
+    "episode_id": 8,
+    "duration_seconds": 1800
+  },
+  {
+    "user_id": 8,
+    "episode_id": 24,
+    "duration_seconds": 1500
+  },
+  {
+    "user_id": 12,
+    "episode_id": 7,
+    "duration_seconds": 0
+  },
+  {
+    "user_id": 12,
+    "episode_id": 2,
+    "duration_seconds": 0
+  },
+  {
+    "user_id": 14,
+    "episode_id": 27,
+    "duration_seconds": 1800
+  },
+  {
+    "user_id": 18,
+    "episode_id": 20,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 9,
+    "episode_id": 14,
+    "duration_seconds": 1500
+  },
+  {
+    "user_id": 6,
+    "episode_id": 4,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 2,
+    "episode_id": 23,
+    "duration_seconds": 1800
+  },
+  {
+    "user_id": 4,
+    "episode_id": 14,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 15,
+    "episode_id": 4,
+    "duration_seconds": 1800
+  },
+  {
+    "user_id": 6,
+    "episode_id": 28,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 7,
+    "episode_id": 27,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 18,
+    "episode_id": 6,
+    "duration_seconds": 900
+  },
+  {
+    "user_id": 11,
+    "episode_id": 25,
+    "duration_seconds": 900
+  },
+  {
+    "user_id": 15,
+    "episode_id": 7,
+    "duration_seconds": 900
+  },
+  {
+    "user_id": 7,
+    "episode_id": 25,
+    "duration_seconds": 120
+  },
+  {
+    "user_id": 16,
+    "episode_id": 16,
+    "duration_seconds": 0
+  },
+  {
+    "user_id": 10,
+    "episode_id": 9,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 17,
+    "episode_id": 9,
+    "duration_seconds": 120
+  },
+  {
+    "user_id": 16,
+    "episode_id": 27,
+    "duration_seconds": 1800
+  },
+  {
+    "user_id": 2,
+    "episode_id": 9,
+    "duration_seconds": 900
+  },
+  {
+    "user_id": 15,
+    "episode_id": 26,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 3,
+    "episode_id": 29,
+    "duration_seconds": 120
+  },
+  {
+    "user_id": 7,
+    "episode_id": 29,
+    "duration_seconds": 1800
+  },
+  {
+    "user_id": 2,
+    "episode_id": 6,
+    "duration_seconds": 300
+  },
+  {
+    "user_id": 16,
+    "episode_id": 28,
+    "duration_seconds": 900
+  },
+  {
+    "user_id": 19,
+    "episode_id": 9,
+    "duration_seconds": 60
+  },
+  {
+    "user_id": 12,
+    "episode_id": 2,
+    "duration_seconds": 1500
+  },
+  {
+    "user_id": 1,
+    "episode_id": 1,
+    "duration_seconds": 1800
+  },
+  {
+    "user_id": 15,
+    "episode_id": 16,
+    "duration_seconds": 900
+  }
+]
