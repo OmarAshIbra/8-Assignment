@@ -79,8 +79,6 @@ Recommendation Criteria :
 - The recommended episodes must be unique.
 - The recommended episodes must not have been listened to by the user before.
 
-## 📝 التوصيات | Recommendations
-
 ### 🎤 تحسين المحتوى | Content Improvement
 
 - زيادة إنتاج حلقات "المجتمع" و"الرياضة"
@@ -90,13 +88,3 @@ Recommendation Criteria :
 - Produce more Society/Sports content
 - Enhance Technology episode quality
 - Add short attention-grabbing segments
-
-### 💡 تحسين التجربة | UX Enhancements
-
-- نظام توصيات شخصية
-- إشعارات للحلقات الجديدة
-- ميزة "استكمل الاستماع"
-
-- Personalized recommendation engine
-- New episode notifications
-- "Continue listening" feature
