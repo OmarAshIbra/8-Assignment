@@ -56,15 +56,28 @@ Three core datasets were used:
 
 يقترح النظام الحلقات بناء على:
 
-1. تاريخ الاستماع السابق
-2. التفضيلات الديموغرافية
-3. شعبية المحتوى
+معايير التوصية:
+
+- المعيار ١: التوصية بالحلقة الأكثر استماعًا ضمن الفئات التي تفاعل معها المستخدم سابقًا.
+- المعيار ٢: التوصية بالحلقة الأكثر استماعًا بين المستخدمين من نفس الجنس.
+- المعيار ٣: التوصية بالحلقة الأكثر استماعًا في بلد المستخدم.
+
+* القيود:
+
+- يجب أن تكون الحلقات الموصى بها فريدة.
+- يجب ألا يكون المستخدم قد استمع إلى الحلقات الموصى بها من قبل.
 
 Recommends episodes based on:
+Recommendation Criteria :
 
-1. Listening history
-2. Demographic preferences
-3. Content popularity
+- Criterion 1 : Recommend the most listened-to episode in categories the user has already interacted with.
+- Criterion 2 : Recommend the most listened-to episode among users of the same gender.
+- Criterion 3 : Recommend the most listened-to episode in the user's country.
+
+* Constraints :
+
+- The recommended episodes must be unique.
+- The recommended episodes must not have been listened to by the user before.
 
 ## 📝 التوصيات | Recommendations
 
