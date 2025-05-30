@@ -1,86 +1,47 @@
-# مشروع ثمانية - تحليل بيانات البودكاست ونظام التوصيات
+# مشروع ثمانية (Project Thamania)
 
-# Thamena Project - Podcast Data Analysis & Recommendation System
+## 📌 Overview
 
-## 📌 نظرة عامة | Overview
+This project performs basic exploratory data analysis on a dataset related to customer and sales behavior. It involves:
 
-يهدف هذا المشروع إلى تحليل بيانات مستمعي منصة "ثمانية" للبودكاست لفهم أنماط الاستماع وتقديم توصيات لتحسين المحتوى وتجربة المستخدم.
+- Reading and cleaning the data
+- Generating descriptive statistics
+- Visualizing patterns using plots
 
-This project analyzes listener data from Thamena podcast platform to understand listening patterns and provide content improvement recommendations.
+## 🛠️ Technologies Used
 
-## 📂 مصادر البيانات | Data Sources
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
-تم استخدام ثلاث مجموعات بيانات رئيسية:
+## 📊 Features
 
-- **users.csv**: بيانات ديموغرافية (العمر، الجنس، الدولة)
-- **episodes.csv**: تفاصيل الحلقات (العنوان، التصنيف)
-- **listens.json**: سجلات الاستماع (المدة، التكرار)
+- Data loading and inspection
+- Handling missing values
+- Generating pie chart and histograms
+- Analyzing correlation between features
 
-Three core datasets were used:
+## 🚫 Limitations
 
-1. `users.csv`: Demographic data (age, gender, country)
-2. `episodes.csv`: Episode details (title, category)
-3. `listens.json`: Listening records (duration, frequency)
+- No predictive modeling or machine learning
+- No hypothesis testing or inferential statistics
 
-## 🔍 منهجية التحليل | Analysis Approach
+## 💡 Future Work
 
-### 1. تنظيف البيانات | Data Cleaning
+- Add regression/classification models
+- Create interactive visualizations
+- Perform feature engineering
+- Include business questions and insights
 
-- دمج البيانات من المصادر الثلاثة في إطار واحد
-- معالجة القيم المفقودة والمكررة
-- تحويل أنواع البيانات بشكل مناسب
+## 📁 How to Run
 
-- Merged all data sources into unified DataFrame
-- Handled missing values and duplicates
-- Proper data type conversions
+1. Clone the repository.
+2. Open `8-Assignment.ipynb` in Jupyter Notebook.
+3. Run all cells sequentially.
 
-### 2. التحليل الاستكشافي |
+## 👨‍💻 Author
 
-- تحليل توزيع الأعمار والجنسيات
-- تحديد أكثر الفئات شعبية
-- حساب متوسط مدة الاستماع
-- مقارنة أنماط الاستماع بين الجنسين
-
-- Age and gender distribution analysis
-- Most popular category identification
-- Average listening duration calculation
-- Gender-based listening pattern comparison
-
-## 🚀 نظام التوصيات | Recommendation System
-
-### 📌 المنطق | Logic
-
-يقترح النظام الحلقات بناء على:
-
-معايير التوصية:
-
-- المعيار ١: التوصية بالحلقة الأكثر استماعًا ضمن الفئات التي تفاعل معها المستخدم سابقًا.
-- المعيار ٢: التوصية بالحلقة الأكثر استماعًا بين المستخدمين من نفس الجنس.
-- المعيار ٣: التوصية بالحلقة الأكثر استماعًا في بلد المستخدم.
-
-* القيود:
-
-- يجب أن تكون الحلقات الموصى بها فريدة.
-- يجب ألا يكون المستخدم قد استمع إلى الحلقات الموصى بها من قبل.
-
-Recommends episodes based on:
-Recommendation Criteria :
-
-- Criterion 1 : Recommend the most listened-to episode in categories the user has already interacted with.
-- Criterion 2 : Recommend the most listened-to episode among users of the same gender.
-- Criterion 3 : Recommend the most listened-to episode in the user's country.
-
-* Constraints :
-
-- The recommended episodes must be unique.
-- The recommended episodes must not have been listened to by the user before.
-
-### 🎤 تحسين المحتوى | Content Improvement
-
-- زيادة إنتاج حلقات "المجتمع" و"الرياضة"
-- تحسين جودة حلقات التكنولوجيا (الأقل استماعًا)
-- إضافة فقرات قصيرة لجذب الانتباه
-
-- Produce more Society/Sports content
-- Enhance Technology episode quality
-- Add short attention-grabbing segments
+Omar Ashraf Ibrahim
